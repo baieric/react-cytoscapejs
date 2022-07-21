@@ -65,7 +65,7 @@
     "node": ">=8.11.3"
   },
   "dependencies": {
-    "cytoscape": "baieric/cytoscape#34152d1468f8189b2537198a78bd83a366247628",
+    "cytoscape": "baieric/cytoscape#f15f69057508a98cf2ed97bd60602942ddb179af",
     "prop-types": "^15.6.2"
   }
 }
